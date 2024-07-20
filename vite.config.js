@@ -5,6 +5,6 @@ import tailwindcss from 'tailwindcss';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base : "./transcoderservice/",
+  base : "./",
   plugins: [react(),tailwindcss()],
 })
