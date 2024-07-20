@@ -1,8 +1,8 @@
 {
   
   "name": "transcoderapp",
-  "homepage": "https://ghan-sudo.github.io/transcoderapp",
-  "private": false,
+  "homepage": "https://ghan-sudo.github.io/transcoderapp/",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
