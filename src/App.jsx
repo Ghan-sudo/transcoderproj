@@ -13,9 +13,9 @@ function App() {
     <div>
 
     <Routes>
-      <Route exact path="/" element={<FrontPage />} />
-      <Route exact path="/Video" element={<VideoPlayerPage />} />
-      <Route exact path="/error" element={<ErrorPage />} />
+      <Route path="/" element={<FrontPage />} />
+      <Route path="/Video" element={<VideoPlayerPage />} />
+      <Route path="/error" element={<ErrorPage />} />
     </Routes>
     </div>
   )
